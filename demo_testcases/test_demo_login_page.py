@@ -70,9 +70,11 @@ def test_demowebshop(driver):               #register link open
 
     scrennobj=BugScreenshot(driver)
     scrennobj.screenshotsave()
+    print("Step 8 Screenshot save Done")
 
     scrollobj = scroll_down_to_end_ofthe_page(driver)
     scrollobj.scroll_bar()
+
 
 
 
