@@ -71,8 +71,7 @@ def test_demowebshop(driver):               #register link open
     scrennobj=BugScreenshot(driver)
     scrennobj.screenshotsave()
     print("Step 8 Screenshot save Done")
-    print("231233231")
-    print("00000000000")
+
     
     
 
