@@ -72,7 +72,7 @@ def test_demowebshop(driver):               #register link open
     scrennobj.screenshotsave()
     print("Step 8 Screenshot save Done")
 
-    print(" save Done")
+    print("poll cm test")
     
     
 
